@@ -8,3 +8,7 @@ Kalinin
 [“Hi”, “1”, “peace”, “:-)”] → [“1”, “:-)”]
 [“3421”, “6715”, “-1”, “computer science”] → [“-1”]
 [“German”, “Platypus”, “Keln”] → []
+
+
+https://www.figma.com/file/vgo8QjFT90jqu2rH6PgZFX/Inking--Icon-Set-%5Bby-AU%5D-(Community)?node-id=1%3A165&t=Rvlk9mCWGYmfwab6-0
+
